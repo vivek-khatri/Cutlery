@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Cutlery/static/css/main.073c9b0a.css",
-    "main.js": "/Cutlery/static/js/main.24be5365.js",
+    "main.js": "/Cutlery/static/js/main.794f9c85.js",
     "static/js/787.71e672d5.chunk.js": "/Cutlery/static/js/787.71e672d5.chunk.js",
     "static/media/logo.svg": "/Cutlery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Cutlery/index.html",
     "main.073c9b0a.css.map": "/Cutlery/static/css/main.073c9b0a.css.map",
-    "main.24be5365.js.map": "/Cutlery/static/js/main.24be5365.js.map",
+    "main.794f9c85.js.map": "/Cutlery/static/js/main.794f9c85.js.map",
     "787.71e672d5.chunk.js.map": "/Cutlery/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.24be5365.js"
+    "static/js/main.794f9c85.js"
   ]
 }
