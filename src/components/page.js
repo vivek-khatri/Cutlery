@@ -10,7 +10,7 @@ export default function Page() {
             <h5>My father sells same quality material at less than shop's rate but with different brand of same quality which does not focuses on packaging.</h5>
             <h5>We use all those things at home that my father sells.</h5>
             <br></br>
-            <h5>It would be glad if you once visit my father's thela.</h5>
+            <h5>We would be glad if you once visit my father's thela.</h5>
             <h5>Thank You.</h5>
         </>
     )
